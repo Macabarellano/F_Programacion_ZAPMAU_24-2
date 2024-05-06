@@ -23,8 +23,8 @@ int main()
     {
         std::cout << "B es mayor a 0\n";
     }
-    //Decisión Doble. si no es verdad lo que esta dentro del parentesis se ejecuta 
-    //Todo lo que hay en las llaves del ELSE
+    //Decisión Doble. si no es verdad, lo que esta dentro del parentesis no se ejecuta 
+    //se ejecuta Todo lo que hay en las llaves del ELSE
     std::string nombre;
     std::cout << "Ingresa tu nombre de usuario: \n";
     std::cin >> nombre;
