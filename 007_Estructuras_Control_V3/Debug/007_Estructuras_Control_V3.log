@@ -1,0 +1,5 @@
+﻿  007_Estructuras_Control_V3.cpp
+C:\Users\AMERIKE\Desktop\F_Programaci-n_ZAPMAU_24-2\007_Estructuras_Control_V3\007_Estructuras_Control_V3.cpp(11,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\AMERIKE\Desktop\F_Programaci-n_ZAPMAU_24-2\007_Estructuras_Control_V3\007_Estructuras_Control_V3.cpp(14,9): warning C4101: 'matriz2': variable local sin referencia
+C:\Users\AMERIKE\Desktop\F_Programaci-n_ZAPMAU_24-2\007_Estructuras_Control_V3\007_Estructuras_Control_V3.cpp(15,9): warning C4101: 'matriz3': variable local sin referencia
+  007_Estructuras_Control_V3.vcxproj -> C:\Users\AMERIKE\Desktop\F_Programaci-n_ZAPMAU_24-2\007_Estructuras_Control_V3\Debug\007_Estructuras_Control_V3.exe
